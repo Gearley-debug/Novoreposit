@@ -1,0 +1,149 @@
+name;region;estate;order;colour;gap
+desconhecido - BA;NORDESTE;BA;1;#000000;1
+desconhecido - CE;NORDESTE;CE;2;#FFFFFF ;1
+desconhecido - MA;NORDESTE;MA;3;#FF0000 (vermelho);1
+desconhecido - MG;SUDESTE;MG;4;#00FF00 (verde);1
+desconhecido - PE;NORDESTE;PE;5;#0000FF (azul);1
+desconhecido - PI;NORDESTE;PI;6;#FFFF00 (amarelo);1
+desconhecido - PR;SUL;PR;7;#FF00FF (magenta);1
+Santa Luzia do norte;NORDESTE; AL;8;#00FFFF (ciano);1
+ Almadino;NORDESTE;BA;9;#800000 (marrom escuro);1
+ Aurelino Leal;NORDESTE;BA;10;#008000 (verde escuro);1
+ Camacan;NORDESTE;BA;11;#000080 (azul escuro);1
+ Canavieiras;NORDESTE;BA;12;#808000 (oliva);1
+ Caravelas;NORDESTE;BA;13;#800080 (roxo);1
+ Carlos Chagas;NORDESTE;BA;14;#008080 (verde-azulado);1
+ Eunapolis;NORDESTE;BA;15;#C0C0C0 (cinza claro);1
+ Guaratinga;NORDESTE;BA;16;#808080 (cinza médio);1
+ Ibicarai;NORDESTE;BA;17;#FFA500 (laranja);1
+ Ilheus;NORDESTE;BA;18;#A52A2A (marrom);1
+ Itabuna;NORDESTE;BA;19;#F5DEB3 (bege);1
+ Itajuipe;NORDESTE;BA;20;#FFC0CB (rosa);1
+ Itamaraju;NORDESTE;BA;21;#800080 (roxo);1
+ Itanhem;NORDESTE;BA;22;#FFD700 (ouro);1
+ Itapemirim;NORDESTE;BA;23;#FF6347 (coral);1
+ Itubera;NORDESTE;BA;24;#00CED1 (azul-turquesa);1
+ Medeiros Neto;NORDESTE;BA;25;#DC143C (carmim);1
+ Mucuri;NORDESTE;BA;26;#7FFF00 (verde chartreuse);1
+ Nova Itarana;NORDESTE;BA;27;#ADFF2F (verde amarelo);1
+ Nova Vicosa;NORDESTE;BA;28;#F0E68C (khaki);1
+ Orucu;NORDESTE;BA;29;#FF69B4 (rosa quente);1
+ Paulo Afonso;NORDESTE;BA;30;#CD5C5C (marrom avermelhado);1
+ Porto Seguro;NORDESTE;BA;31;#BDB76B (caqui);1
+ Potiragua;NORDESTE;BA;32;#FFA07A (salmão claro);1
+ Prado;NORDESTE;BA;33;#F08080 (coral claro);1
+ Salvador;NORDESTE;BA;34;#DA70D6 (orquídea);1
+ Teixeira de Freitas;NORDESTE;BA;35;#EEE8AA (amarelo claro);1
+ Una;NORDESTE;BA;36;#98FB98 (verde pálido);1
+ Urucuba;NORDESTE;BA;37;#AFEEEE (azul pálido);1
+ Valencia;NORDESTE;BA;38;#DB7093 (rosa pálido);1
+ Vitoria da Conquista;NORDESTE;BA;39;#FFEFD5 (branco fumo);1
+Acopiara;NORDESTE;CE;40;#FFDAB9 (pêssego);1
+Goiania;CENTRO-OESTE;GO;41;#CD853F (marrom claro);1
+Araujos;NORDESTE;MA;42;#FFA07A (salmão claro);1
+Imperatriz;NORDESTE;MA;43;#FFA500 (laranja);1
+Sao Luis;NORDESTE;MA;44;#FF8C00 (laranja escuro);1
+ Aimores;SUDESTE;MG;45;#FF4500 (laranja vermelho);1
+ Belo Horizonte;SUDESTE;MG;46;#DAA520 (dourado escuro);1
+ Bertopolis;SUDESTE;MG;47;#FF69B4 (rosa quente);1
+ Cachoeira da Prata;SUDESTE;MG;48;#FF1493 (rosa profundo);1
+ Caete;SUDESTE;MG;49;#B22222 (tijolo);1
+ Carangola;SUDESTE;MG;50;#8B0000 (vermelho escuro);1
+ Caratinga;SUDESTE;MG;51;#FFB6C1 (rosa claro);1
+ Conceicao Capim;SUDESTE;MG;52;#CD5C5C (marrom avermelhado);1
+ Conselheiro Pena;SUDESTE;MG;53;#FF0000 (vermelho);1
+ Governador Valadares;SUDESTE;MG;54;#800000 (marrom escuro);1
+ Iapu;SUDESTE;MG;55;#FFC0CB (rosa);1
+ Ipatinga;SUDESTE;MG;56;#FF69B4 (rosa quente);1
+ Itabira;SUDESTE;MG;57;#FF1493 (rosa profundo);1
+ Itabirim de Mantena;SUDESTE;MG;58;#DB7093 (rosa pálido);1
+ Itanhomi;SUDESTE;MG;59;#C71585 (vermelho médio);1
+ Itauna;SUDESTE;MG;60;#FF4500 (laranja vermelho);1
+ Januaria;SUDESTE;MG;61;#FF8C00 (laranja escuro);1
+ Joao Monlevade;SUDESTE;MG;62;#FFA500 (laranja);1
+ Juaima;SUDESTE;MG;63;#FFD700 (ouro);1
+ Ladainha;SUDESTE;MG;64;#FFFF00 (amarelo);1
+ Lajinhas;SUDESTE;MG;65;#F0E68C (khaki);1
+ Mantena;SUDESTE;MG;66;#FF00FF (magenta);1
+ Mantenopolis;SUDESTE;MG;67;#EE82EE (violeta);1
+ Matipo;SUDESTE;MG;68;#800080 (roxo);1
+ Miradouro;SUDESTE;MG;69;#BA55D3 (orquídea média);1
+ Mirai;SUDESTE;MG;70;#9370DB (orquídea média roxa);1
+ Mutum;SUDESTE;MG;71;#8A2BE2 (azul violeta);1
+ Nanuque;SUDESTE;MG;72;#6A5ACD (azul lavanda);1
+ Nova Era;SUDESTE;MG;73;#483D8B (azul escuro);1
+ Nova Lima;SUDESTE;MG;74;#7B68EE (azul ardósia média);1
+ Ouro Branco;SUDESTE;MG;75;#191970 (azul da meia-noite);1
+ Pocrane;SUDESTE;MG;76;#0000CD (azul médio);1
+ Resplendor;SUDESTE;MG;77;#000080 (azul escuro);1
+ Rio Casca;SUDESTE;MG;78;#4169E1 (azul real);1
+ Salto da Divisa;SUDESTE;MG;79;#6495ED (azul ardósia claro);1
+ Santa Luzia;SUDESTE;MG;80;#87CEEB (azul-celeste);1
+ Santo Antonio de Pádua;SUDESTE;MG;81;#87CEFA (azul-celeste claro);1
+ Sao Manoel de Mutu;SUDESTE;MG;82;#00BFFF (azul celeste);1
+ Teofilo Otoni;SUDESTE;MG;83;#1E90FF (azul dodger);1
+ Timoteo;SUDESTE;MG;84;#ADD8E6 (azul claro);1
+ Ubaitaba;SUDESTE;MG;85;#F0F8FF (azul Alice);1
+ Valadares;SUDESTE;MG;86;#F0FFFF (azul azur);1
+ Varginha;SUDESTE;MG;87;#E0FFFF (azul celeste pálido);1
+ Paraiba;NORDESTE;PB;88;#AFEEEE (azul pálido);1
+ Jatoba;NORDESTE;PE;89;#00CED1 (azul-turquesa);1
+ Recife;NORDESTE;PE;90;#48D1CC (azul turquesa médio);1
+ Parnaíba;NORDESTE;PI;91;#40E0D0 (turquesa);1
+ Campos Dos Goytacazes;SUDESTE;RJ;92;#00FFFF (ciano);1
+ Casemiro De Abreu;SUDESTE;RJ;93;#7FFFD4 (aquamarine);1
+ Mage;SUDESTE;RJ;94;#66CDAA (verde médio aquamarine);1
+ Miguel Pereira;SUDESTE;RJ;95;#20B2AA (azul ardósia clara);1
+ Nova Iguacu;SUDESTE;RJ;96;#008B8B (azul ardósia escuro);1
+ Parati;SUDESTE;RJ;97;#008080 (azul ardósia);1
+ Penha;SUDESTE;RJ;98;#00FA9A (verde primavera);1
+ Rio de Janeiro;SUDESTE;RJ;99;#7CFC00 (verde amarelado);1
+ Volta Redonda;SUDESTE;RJ;100;#00FF00 (verde);1
+ Natal;NORTE;RN;101;#32CD32 (verde lime);1
+ Cachoeiro do Sul;SUL;RS;102;#00FF7F (verde intenso);1
+ Guaibes;SUL;RS;103;#ADFF2F (verde amarelo);1
+ Santa Barbara do Oeste;SUDESTE;SP;104;#9ACD32 (verde amarelo escuro);1
+ Santo Andre;SUDESTE;SP;105;#7FFF00 (verde chartreuse);1
+ Sao Paulo;SUDESTE;SP;106;#00FF00 (verde);1
+ Cajueiro;NORDESTE;AL;107;#7CFC00 (verde amarelado);1
+ Itapebi;NORDESTE;BA;108;#00FA9A (verde primavera);1
+ Afonso Claudio;SUDESTE;ES;109;#00FF7F (verde intenso);2
+ Aguia Branca;SUDESTE;ES;110;#ADFF2F (verde amarelo);2
+ Apiaca;SUDESTE;ES;111;#7FFF00 (verde chartreuse);2
+ Aracruz;SUDESTE;ES;112;#32CD32 (verde lime);2
+ Baixo Guandu;SUDESTE;ES;113;#9ACD32 (verde amarelo escuro);2
+ Barra de São Francisco;SUDESTE;ES;114;#00FF00 (verde);2
+ Cachoeiro de Itapemirim;SUDESTE;ES;115;#228B22 (verde floresta);2
+ Castelo;SUDESTE;ES;116;#008000 (verde escuro);2
+ Colatina;SUDESTE;ES;117;#006400 (verde escuro);2
+ Conceicao da Barra;SUDESTE;ES;118;#006400 (verde escuro);2
+ Conselheiro Pena;SUDESTE;ES;119;#556B2F (verde escuro oliva);2
+ Domingos Martins;SUDESTE;ES;120;#8FBC8F (verde mar escuro);2
+ Ecoporanga;SUDESTE;ES;121;#2E8B57 (verde mar);2
+ Governador Lindemberg;SUDESTE;ES;122;#3CB371 (verde médio mar);2
+ Ibatiba;SUDESTE;ES;123;#20B2AA (azul ardós;2
+ Ibiracu;SUDESTE;ES;124;;2
+ Itaguacu;SUDESTE;ES;125;;2
+ Itaunas;SUDESTE;ES;126;;2
+ Jerônimo Monteiro;SUDESTE;ES;127;;2
+ Joao Neiva;SUDESTE;ES;128;;2
+ Laranja da Terra;SUDESTE;ES;129;;2
+ Linhares;SUDESTE;ES;130;;2
+ Marataizes;SUDESTE;ES;131;;2
+ Montanha;SUDESTE;ES;132;;2
+ Muniz Freire;SUDESTE;ES;133;;2
+ Nova Venecia;SUDESTE;ES;134;;2
+ Pancas;SUDESTE;ES;135;;2
+ Pinheiros;SUDESTE;ES;136;;2
+ Presidente Kennedy;SUDESTE;ES;137;;2
+ Santa Leopoldina;SUDESTE;ES;138;;2
+ Santa Teresa;SUDESTE;ES;139;;2
+ Sao Gabriel da Palha;SUDESTE;ES;140;;2
+ Sao Mateus;SUDESTE;ES;141;;2
+ Vila Pavao;SUDESTE;ES;142;;2
+RMGV - Cariacica;SUDESTE;ES;143;;3
+RMGV - Fundao;SUDESTE;ES;144;;3
+RMGV - Serra;SUDESTE;ES;145;;3
+RMGV - Viana;SUDESTE;ES;146;;3
+RMGV - Vila Velha;SUDESTE;ES;147;;3
+RMGV - Vitoria;SUDESTE;ES;148;;3
